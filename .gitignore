@@ -1,0 +1,17 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+.next/
+out/
+dist/
+data/
+dev.log
+dev.err.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+prisma/generated/
+
+.vercel
+.env*
